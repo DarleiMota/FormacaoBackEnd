@@ -25,7 +25,7 @@ Organizar e documentar meu progresso na trilha de Back-End, desde o aprendizado 
 | # | Título | Link |
 |--|--------|------|
 | 1 | JAVA: Criando a sua primeira aplicação | [Ver exercício](https://github.com/DarleiMota/BackEndStage1) |
-| 2 | JAVA: Aplicando a Orientação a Objetos | [Ver exercício](./02-orientacao-a-objetos) |
+| 2 | JAVA: Aplicando a Orientação a Objetos | [Ver exercício]((https://github.com/DarleiMota/BackEndStage2)) |
 | 3 | JAVA: Manipulando listas, consumindo API e lidando com exceções | [Ver exercício](./03-listas-e-api) |
 | 4 | JAVA: Encarando o Challenger: conversor de moedas | [Ver exercício](./04-conversor-moedas) |
 
