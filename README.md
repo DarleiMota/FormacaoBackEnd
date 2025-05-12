@@ -36,8 +36,9 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 |--|--------|------|
 | 1 | JAVA: Criando a sua primeira aplicação | [Ver exercícios](https://github.com/DarleiMota/BackEndStage1) |
 | 2 | JAVA: Aplicando a Orientação a Objetos | [Ver exercícios](https://github.com/DarleiMota/BackEndStage2) |
-| 3 | JAVA: Manipulando listas, consumindo API e lidando com exceções | [Ver exercícios](./03-listas-e-api) |
-| 4 | JAVA: Encarando o Challenger: conversor de moedas | [Ver exercícios](./04-conversor-moedas) |
+| 3 | JAVA: Manipulando listas| [Ver exercícios](./03-listas-e-api) |
+| 4 | JAVA: Consumindo API e lidando com exceções |[Em desenvolvimento](./03-listas-e-api) |
+| 5 | JAVA: Encarando o Challenger: conversor de moedas | [Em desenvolvimento](./04-conversor-moedas) |
 
 > ✍️ *Novos exercícios serão adicionados conforme o curso avança.*
 
@@ -47,7 +48,6 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 > Este é meu quadro de evolução como desenvolvedor Java Back-End. A cada "checkpoint", subo de nível e me aproximo da minha missão final: conquistar minha primeira vaga como Dev Júnior!
 
----
 
 ### Fase 1 - Fundamentos do Java  
 - [x] Compreensão de variáveis e tipos primitivos  
