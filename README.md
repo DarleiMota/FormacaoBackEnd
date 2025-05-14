@@ -36,7 +36,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 |--|--------|------|
 | 1 | JAVA: Criando a sua primeira aplicação | [Ver exercícios](https://github.com/DarleiMota/BackEndStage1) |
 | 2 | JAVA: Aplicando a Orientação a Objetos | [Ver exercícios](https://github.com/DarleiMota/BackEndStage2) |
-| 3 | JAVA: Manipulando listas| [Ver exercícios](./03-listas-e-api) |
+| 3 | JAVA: Manipulando listas| [Ver exercícios](https://github.com/DarleiMota/BackEndStage3) |
 | 4 | JAVA: Consumindo API e lidando com exceções |[Em desenvolvimento](./03-listas-e-api) |
 | 5 | JAVA: Encarando o Challenger: conversor de moedas | [Em desenvolvimento](./04-conversor-moedas) |
 
