@@ -14,15 +14,15 @@ O foco está no desenvolvimento com a linguagem **Java**, utilizando conceitos d
 
 - [Sobre mim](#sobre-mim)
 - [Exercícios](#exercícios)
-- [Missão: Dev Júnior Ativado!](#🕹️-missão-dev-júnior-ativado)
-- [Desafios e aprendizados](#🧠-desafios-enfrentados-e-aprendizados)
-- [Recursos utilizados](#🛠️-recursos-utilizados)
-- [Próximos passos](#🚀-próximos-passos)
-- [Contato](#📬-contato)
+- [Missão Dev Júnior Ativado!](#missão-dev-júnior-ativado)
+- [Desafios enfrentados e aprendizados](#desafios-enfrentados-e-aprendizados)
+- [Recursos utilizados](#recursos-utilizados)
+- [Próximos passos](#próximos-passos)
+- [Contato](#contato)
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim 👨‍💻
 
 Me chamo **Darlei Mota**, sou apaixonado por tecnologia, transição de carreira e evolução constante. Meu objetivo é conseguir minha primeira vaga como **Desenvolvedor Java Back-End Júnior** até o fim de 2025.
 
@@ -30,7 +30,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 ---
 
-## 📚 Exercícios
+## Exercícios 📚
 
 | # | Título | Link |
 |--|--------|------|
@@ -44,10 +44,9 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 ---
 
-## 🕹️ Missão: Dev Júnior Ativado!
+## Missão Dev Júnior Ativado! 🕹️
 
 > Este é meu quadro de evolução como desenvolvedor Java Back-End. A cada "checkpoint", subo de nível e me aproximo da minha missão final: conquistar minha primeira vaga como Dev Júnior!
-
 
 ### Fase 1 - Fundamentos do Java  
 - [x] Compreensão de variáveis e tipos primitivos  
@@ -69,10 +68,10 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 - [x] Uso de `List` e polimorfismo  
 - [x] Ordenação com `Collections.sort()`  
 - [x] Interface `Comparable`  
-- [ ] `Map` e `HashMap`  
-- [ ] `Set` e `HashSet`
+- [x] `Map` e `HashMap`  
+- [x] `Set` e `HashSet`
 
-**Status:** Parcialmente concluída! **(XP ganho: +600)**
+**Status:** Parcialmente concluída! **(XP ganho: +1000)**
 
 ---
 
@@ -117,7 +116,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 ---
 
-## 🧠 Desafios enfrentados e aprendizados
+## Desafios enfrentados e aprendizados 🧠
 
 - Superar dificuldades com laços de repetição e controle de fluxo
 - Praticar o consumo de APIs REST com Java
@@ -127,14 +126,14 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 ---
 
-## 🛠️ Recursos Utilizados
+## Recursos utilizados 🛠️
 
 - 📘 [Documentação da Oracle - Java](https://docs.oracle.com/javase/8/docs/)
 - 🎓 [Alura - Formação Back-End](https://www.alura.com.br)
 
 ---
 
-## 🚀 Próximos passos
+## Próximos passos 🚀
 
 - [ ] 📡 Praticar integração com APIs RESTful
 - [ ] 🧱 Estudar microserviços e arquitetura distribuída
@@ -143,7 +142,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 
 ---
 
-## 📬 Contato
+## Contato 📬
 
 - [LinkedIn](https://www.linkedin.com/in/darleimota)
 - [Twitter](https://twitter.com/darleimota)
