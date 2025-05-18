@@ -12,7 +12,7 @@ O foco está no desenvolvimento com a linguagem **Java**, utilizando conceitos d
 
 ## 📑 Sumário
 
-- [Sobre mim](#sobre-mim)
+- [Sobre mim](##sobre-mim)
 - [Exercícios](#exercícios)
 - [Missão Dev Júnior Ativado!](#missão-dev-júnior-ativado)
 - [Desafios enfrentados e aprendizados](#desafios-enfrentados-e-aprendizados)
