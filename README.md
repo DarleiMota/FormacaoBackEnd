@@ -10,18 +10,6 @@ O foco está no desenvolvimento com a linguagem **Java**, utilizando conceitos d
 
 ---
 
-## 📑 Sumário
-
-- [Sobre mim](##sobre-mim)
-- [Exercícios](#exercícios)
-- [Missão Dev Júnior Ativado!](#missão-dev-júnior-ativado)
-- [Desafios enfrentados e aprendizados](#desafios-enfrentados-e-aprendizados)
-- [Recursos utilizados](#recursos-utilizados)
-- [Próximos passos](#próximos-passos)
-- [Contato](#contato)
-
----
-
 ## Sobre mim 👨‍💻
 
 Me chamo **Darlei Mota**, sou apaixonado por tecnologia, transição de carreira e evolução constante. Meu objetivo é conseguir minha primeira vaga como **Desenvolvedor Java Back-End Júnior** até o fim de 2025.
