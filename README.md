@@ -59,7 +59,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 - [x] `Map` e `HashMap`  
 - [x] `Set` e `HashSet`
 
-**Status:** Parcialmente concluída! **(XP ganho: +1000)**
+**Status:** Fase concluída com muito esforço **(XP ganho: +1000)**
 
 ---
 
