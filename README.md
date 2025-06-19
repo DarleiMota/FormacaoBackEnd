@@ -70,25 +70,27 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 - [ ] Branches e pull requests  
 - [ ] Merge e resolução de conflitos
 
-**Status:** Em progresso! **(XP ganho: +400)**
+**Status:** Em progresso! **(XP ganho: +600)**
 
 ---
 
 ### Fase 4 - APIs e Entrada de Dados  
 - [x] Entrada via terminal (`Scanner`)  
 - [ ] Leitura de arquivos (`BufferedReader`, etc.)  
-- [ ] Tratamento de exceções (`try-catch`)  
-- [ ] Consumo de APIs REST com Java
+- [x] Tratamento de exceções (`try-catch`)  
+- [x] Consumo de APIs REST com Java
 
-**Status:** Iniciada! **(XP ganho: +300)**
+**Status:** Em progresso! **(XP ganho: +750)**
 
 ---
 
 ### Fase 5 - Projeto Final  
 - [x] Aplicação com POO  
 - [x] Projeto com tema próprio (Conversor de Moeda)  
-- [ ] Aplicação com API real  
-- [ ] Projeto usando `Map`, `Set` ou arquivos
+- [x] Aplicação com API real  
+- [x] Projeto usando `Map`, `Set` ou arquivos
+
+**Status:** Fase concluída com muito esforço **(XP ganho: +1000)**
 
 ---
 
@@ -98,9 +100,9 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 - Repositório Base: [FormacaoBackEnd](https://github.com/DarleiMota/FormacaoBackEnd)  
 - Missões em andamento: Conversor de Moeda | Sistema de Livraria | App de Música
 
-📆 Atualizado em: **Maio de 2025**
+📆 Atualizado em: **Junho de 2025**
 
-🎯 **Próximo objetivo:** Finalizar consumo de API e concluir fase Git Pro
+🎯 **Próximo objetivo:** Inicializar estudo de Spring, avançar novas fases e concluir fase Git Pro
 
 ---
 
