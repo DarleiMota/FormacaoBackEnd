@@ -26,7 +26,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/darleimota/) ou acom
 | 2 | JAVA: Aplicando a Orientação a Objetos | [Ver exercícios](https://github.com/DarleiMota/BackEndStage2) |
 | 3 | JAVA: Manipulando listas| [Ver exercícios](https://github.com/DarleiMota/BackEndStage3) |
 | 4 | JAVA: Consumindo API e lidando com exceções |[Ver exercícios](https://github.com/DarleiMota/BackEndStage4) |
-| 5 | JAVA: Encarando o Challenger: conversor de moedas | [Em desenvolvimento](./04-conversor-moedas) |
+| 5 | JAVA: Encarando o Challenger: conversor de moedas | [Ver projeto](https://github.com/DarleiMota/challenge-conversor-moeda) |
 
 > ✍️ *Novos exercícios serão adicionados conforme o curso avança.*
 
