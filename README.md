@@ -45,8 +45,8 @@ Aqui você encontrará os **projetos e exercícios desenvolvidos** ao longo da f
 | 2      | **Java: Orientação a Objetos** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage2) |
 | 3      | **Java: Estruturas de Dados e Coleções** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage3) |
 | 4      | **Java: Consumo de APIs e Tratamento de Exceções** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage4) |
-| 5      | **Java + Spring: Lambdas, Streams e Projeto CLI** | Curso | [Ver Projeto](https://github.com/DarleiMota/BackEndStage5) |
-| 6      | **Spring Data JPA: Persistência e Consultas** | Curso | [Ver Projeto](https://github.com/DarleiMota/BackEndStage6)
+| 5      | **Java + Spring: Lambdas, Streams e Projeto CLI** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage5) |
+| 6      | **Spring Data JPA: Persistência e Consultas** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage6)
 | 7      | **Criando API REST com Spring e MVC** | Curso | Em Andamento |
 | 8      | **Spring Boot: CRUD, Validações e Paginação** | Curso | Em Andamento |
 | 9      | **Spring Security e Autenticação com JWT** | Curso | Em Andamento |
