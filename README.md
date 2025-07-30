@@ -46,13 +46,13 @@ Aqui você encontrará os **projetos e exercícios desenvolvidos** ao longo da f
 | 3      | **Java: Estruturas de Dados e Coleções** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage3) |
 | 4      | **Java: Consumo de APIs e Tratamento de Exceções** | Curso | [Ver Código](https://github.com/DarleiMota/BackEndStage4) |
 | 5      | **Java + Spring: Lambdas, Streams e Projeto CLI** | Curso | [Ver Projeto](https://github.com/DarleiMota/BackEndStage5) |
-| 6      | **Spring Data JPA: Persistência e Consultas** | Curso | Em Andamento |
+| 6      | **Spring Data JPA: Persistência e Consultas** | Curso | [Ver Projeto](https://github.com/DarleiMota/BackEndStage6)
 | 7      | **Criando API REST com Spring e MVC** | Curso | Em Andamento |
 | 8      | **Spring Boot: CRUD, Validações e Paginação** | Curso | Em Andamento |
 | 9      | **Spring Security e Autenticação com JWT** | Curso | Em Andamento |
 | 10     | **Documentação, Testes e Deploy** | Curso | Em Andamento |
 | 11     | **Challenge Conversor de Moedas** | Projeto | [Ver Projeto](https://github.com/DarleiMota/challenge-conversor-moeda) |
-| 12     | **Challenge LiterAlura: Catálogo com API** | Projeto | Em Andamento |
+| 12     | **Challenge LiterAlura: Catálogo com API** | Projeto | [Ver Projeto](https://github.com/DarleiMota/liter-alura) |
 | 13     | **Challenge Fórum Hub: API com PostgreSQL** | Projeto | Em Andamento |
 
 > ✍️ *Este quadro é atualizado constantemente com novos projetos e módulos conforme o avanço da formação.*
